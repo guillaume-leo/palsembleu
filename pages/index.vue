@@ -2,18 +2,17 @@
   <div class="content">
     <h1 class="content__title">gallery</h1>
     <div class="content__gallery gallery">
-      <img src="00.png" class="gallery__image" alt="">
-      <img src="01.png" class="gallery__image" alt="">
-      <img src="02.png" class="gallery__image" alt="">
-      <img src="live01.jpg" class="gallery__image" alt="">
-      <img src="03.png" class="gallery__image" alt="">
-      <img src="04.png" class="gallery__image" alt="">
-      <img src="06.png" class="gallery__image" alt="">
-      <img src="07.png" class="gallery__image" alt="">
-      <img src="live00.jpg" class="gallery__image" alt="">
-      <img src="08.png" class="gallery__image" alt="">
-      <img src="09.png" class="gallery__image" alt="">
-      <video class="gallery__video" src="live.m4v" autoplay muted loop />
+      <img src="/00.png" class="gallery__image" alt="">
+      <img src="/01.png" class="gallery__image" alt="">
+      <img src="/02.png" class="gallery__image" alt="">
+      <img src="/live01.jpg" class="gallery__image" alt="">
+      <img src="/03.png" class="gallery__image" alt="">
+      <img src="/04.png" class="gallery__image" alt="">
+      <img src="/06.png" class="gallery__image" alt="">
+      <img src="/07.png" class="gallery__image" alt="">
+      <img src="/live00.jpg" class="gallery__image" alt="">
+      <img src="/08.png" class="gallery__image" alt="">
+      <img src="/09.png" class="gallery__image" alt="">
     </div>
   </div>
 </template>

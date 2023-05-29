@@ -1,7 +1,7 @@
 <template>
   <div class="content">
     <div class="content__img">
-      <img src="setup00.jpg" alt="">
+      <img src="/setup00.jpg" alt="">
     </div>
     <div class="content__text">
       <p>The simulation runs into a <a target="_blank" href="https://cycling74.com/">Max/Msp</a> patch.</p>
