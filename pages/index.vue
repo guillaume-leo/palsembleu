@@ -14,6 +14,10 @@
       <img src="/08.png" class="gallery__image" alt="">
       <img src="/09.png" class="gallery__image" alt="">
     </div>
+    <div class="content__gifs">
+      <img src="/physarum_experiment06.gif" class="gallery__gif" alt="">
+      <img src="/Physarum_experiment07.gif" class="gallery__gif" alt="">
+    </div>
   </div>
 </template>
 
@@ -36,11 +40,18 @@ h1 {
   justify-content: center;
 }
 
-.gallery__image {
-  max-width: 50%;
+.content__gifs {
+  display: flex;
+  justify-content: center;
 }
 
-.gallery__video {
+.gallery__gif {
+  object-fit: cover;
+  min-width: 33%;
+  margin: auto;
+}
+
+.gallery__image {
   max-width: 50%;
 }
 </style>

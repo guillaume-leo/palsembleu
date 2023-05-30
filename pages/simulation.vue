@@ -13,8 +13,8 @@
         The particle leave an invisible trace behind it (deposit) that will diffuse in space, and disappear over time
       </li>
       <li>
-        The particle have 3 sensors in front of it, one on the left, another in front of it and the last one on the right
-        that detects the amount of deposit leaved by others particles
+        The particle have 3 sensors in front of it, one on the left, another in front of it and the last one on the right.
+        These sensors detects the amount of deposit leaved by others particles
       </li>
       <li>
         The particle will move in the direction of the sensor that have detected the biggest quantity of deposit
