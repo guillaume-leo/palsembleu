@@ -6,9 +6,11 @@
     <div class="content__text">
       <p>The simulation runs into a <a target="_blank" href="https://cycling74.com/">Max/Msp</a> patch.</p>
       <p>Max is a creative coding environement that can be extended with other languages.</p>
-      <p>Thus, I can inside max create shaders in GLSL to run the particle simulation directly on the GPU <br> and
+      <p>Thus, I can inside my max project, create shaders in GLSL to run the particle simulation directly on the GPU <br>
+        and
         javascript to
-        control the patch in real-time with the midi controller that you can see on the picture</p>
+        control parameters of the patch in real-time with a midi controller that you can see on the picture (ableton push)
+      </p>
     </div>
   </div>
 </template>
